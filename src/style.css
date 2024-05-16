@@ -1,0 +1,78 @@
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+#logo {
+  font-family: "Rubik Doodle Shadow";
+}
+
+#B1 {
+  color: rgb(255, 85, 0);
+}
+
+#B2 {
+  color: rgb(255, 255, 255);
+}
+
+#B3 {
+  color: rgb(255, 200, 0);
+}
+
+#B4 {
+  color: rgb(254, 0, 169);
+}
+
+#B5 {
+  color: rgb(35, 160, 255);
+}
+
+#B6 {
+  color: rgb(255, 255, 255);
+}
+
+#B7 {
+  color: rgb(61, 199, 46);
+}
+
+#B8 {
+  color: rgb(255, 255, 255);
+}
+
+#B9 {
+  color: rgb(254, 0, 169);
+}
+
+#B10 {
+  color: rgb(35, 160, 255);
+}
+
+.hide {
+  display: none;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.order-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1500;
+}
