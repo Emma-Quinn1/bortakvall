@@ -1,2 +1,2 @@
 # bortakvall
-School assignement where we created a website for selling candy.
+School assignment where we created a website for selling candy.
